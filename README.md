@@ -1,6 +1,6 @@
 # transcribe-analyse-video
 
-Small POC of how to automatically transcribe voices in video/audio files to text and then analyzing the text data.
+Small POC to show how to automatically transcribe voices in video/audio files to text and then analyzing the text data.
 
 Motivation/Idea:
 In this years keynote of Googles main event, buzzwords like "AI" and "machine learning" were used a lot.
